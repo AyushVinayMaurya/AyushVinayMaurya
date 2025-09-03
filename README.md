@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ayush Maurya
 
-🚀 **Frontend Developer | MERN Enthusiast | Open Source Explorer**
+🚀 **Frontend Developer | Open Source Explorer**
 
 ### 💡 About Me
 - 🎓 3rd year BCA student  
@@ -20,8 +20,6 @@
 
 ### 📌 Featured Projects
 - 🏠 **Radiant Store** – Home décor eCommerce platform (HTML, CSS, JS)  
-- 💊 **Care Plus** – Healthcare management system (Next.js, Twilio, Firebase)  
-- 🏡 **Real Estate App** – React Native + Appwrite + Expo  
 - 🤖 **MockMate** – AI-powered interview prep platform (Next.js, Firebase, VAPI AI, Gemini)  
 
 ---
