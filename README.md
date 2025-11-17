@@ -19,20 +19,13 @@
 ---
 
 ### 📌 Featured Projects
-- 🏠 **Radiant Store** – Home décor eCommerce platform (HTML, CSS, JS)  
-- 🤖 **MockMate** – AI-powered interview prep platform (Next.js, Firebase, VAPI AI, Gemini)  
+- 🏠 **Radiant Store** – Home décor eCommerce platform.
+- 🤖 **MockMate** –     AI-powered interview prep platform.
+-    **Signalist** -    Singnal List is a smart stock market platform that helps user analyze stocks.
 
----
 
-### 📊 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushmaurya&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaurya&layout=compact&theme=tokyonight)
 
----
 
-### 🌐 Connect With Me
-[![Portfolio](https://portfolio-orpin-eta-27.vercel.app/)](your-portfolio-link)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)  
+
 
 ✨ _Let’s build something amazing together!_  
