@@ -3,7 +3,7 @@
 🚀 **Frontend Developer | Open Source Explorer**
 
 ### 💡 About Me
-- 🎓 3rd year BCA student  
+- 🎓 1st Yeat Master of Computer Application. 
 - 💻 Passionate about building **scalable web applications**  
 - 🌱 Currently learning **MERN stack & advanced frontend development**  
 - ⚡ Always exploring **new technologies** to create innovative solutions  
@@ -21,7 +21,7 @@
 ### 📌 Featured Projects
 - 🏠 **Radiant Store** – Home décor eCommerce platform.
 - 🤖 **MockMate** –     AI-powered interview prep platform.
--    **Signalist** -    Singnal List is a smart stock market platform that helps user analyze stocks.
+- **Signalist** -    Singnal List is a smart stock market platform that helps user analyze stocks.
 
 
 
