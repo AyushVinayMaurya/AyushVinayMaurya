@@ -1,31 +1,48 @@
-# Hi there 👋, I'm Ayush Maurya
+<div align="center">
+  <img src="https://i.postimg.cc/1tBXFwQH/header.gif">
+</div>
 
-🚀 **Frontend Developer | Open Source Explorer**
+<div align="center">
+  <h3>Frontend Developer</h3>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Next.js</strong>&nbsp;✔</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in both <strong>French</strong> and <strong>English</strong>&nbsp;✔</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
+  📌 <a href="https://">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
+  📅 <a href="https://>Schedule a meeting</a>&nbsp;&nbsp;&nbsp;<br/>
+  📧 <a href="mailto:">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
 
-### 💡 About Me
-- 🎓 1st Yeat Master of Computer Application. 
-- 💻 Passionate about building **scalable web applications**  
-- 🌱 Currently learning **MERN stack & advanced frontend development**  
-- ⚡ Always exploring **new technologies** to create innovative solutions  
+  
+</div><br /><br />
 
----
+<table>
+  <td>
+    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:50px;" />
+    <p><strong>🎨 Front</strong></p>
+    <ul>
+      <li>Next.js, React, TypeScript, JavaScript</li>
+      <li>Tailwind, Sass, shadcn/ui, Bootstrap</li>
+      <li>SEO, Accessibility, Copywriting</li>
+    </ul>
+    <br /><p><strong>🛠 Back</strong></p>
+    <ul>
+      <li>Next.js, Node.js, Express</li>
+      <li>MongoDB, Supabase</li>
+      <li>Firebase, Appwrite, Cloudinary</li>
+    </ul>
+    <br /><p><strong>📁 More</strong></p>
+    <ul>
+      <li>Wordpress/Divi, React Native/Expo</li>
+      <li>Figma, Photoshop, Midjourney, Dall-E</li>
+      <li>Vercel, Hostinger, Netlify</li>
+      <li>Git, OpenAI API, AI Tools</li>
+    </ul>
+    <img src="https://i.ibb.co/qB2dNN7/blank.png" style="width: 675px; height:40px" />
+  </td>
+  <td>
+    <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
+  </td>
+</table>
 
-### 🔧 Tech Stack
-**Frontend:** React.js, Next.js, Tailwind CSS, JavaScript, TypeScript  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, Firebase, Appwrite  
-**Other Tools:** Git, GitHub, Vercel, Expo, Figma  
-
----
-
-### 📌 Featured Projects
-- 🏠 **Radiant Store** – Home décor eCommerce platform.
-- 🤖 **MockMate** –     AI-powered interview prep platform.
-- **Signalist** -    Singnal List is a smart stock market platform that helps user analyze stocks.
-
-
-
-
-
-
-✨ _Let’s build something amazing together!_  
+<div align="center">
+  <img src="https://i.postimg.cc/s2FrgXtg/footer.gif">
+</div>
